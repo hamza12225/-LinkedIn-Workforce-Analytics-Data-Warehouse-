@@ -47,7 +47,9 @@ Comprehensive documentation of SQL queries used for:
 5. Refer to the **SQL Queries Documentation** for details on data operations.  
 
 ## Contributors  
-- [Your Name]  
+- Hamza Elhaiki
+- Abdelhay Amani
+- Hicham Ben Hsine
 
 ## License  
 This project is licensed under the MIT License.  
